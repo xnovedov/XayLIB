@@ -2,7 +2,6 @@ Sure! Here's a short, clear, and professional README for your XayLIB project:
 
 ---
 
-```markdown
 # XayLIB — Roblox UI Library
 
 **XayLIB** is a customizable user interface library for Roblox scripts. It allows developers to create structured cheat menus with tabs, sections, and interactive controls. The design is inspired by XAYWARE and includes optional visual effects like falling snow.
