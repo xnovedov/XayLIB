@@ -48,12 +48,3 @@ section:AddSlider({Text = "FOV", Min = 0, Max = 20, Default = 3, Decimals = 1, C
 | `XAY_SNOW_OPACITY` | `number`  | Opacity (0.0 to 1.0)                 |
 | `XAY_THEME`        | `string`  | Theme name                           |
 | `XAY_KEYBIND`      | `KeyCode` | Key to open/close the menu           |
-
-## License
-
-MIT — free to use and modify.
-```
-
----
-
-Let me know if you'd like a Russian version or want to include installation instructions for beginners.
